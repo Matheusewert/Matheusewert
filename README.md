@@ -1,81 +1,47 @@
-# 👋 Olá! Eu sou Matheus Ewert
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Administra%C3%A7%C3%A3o+%7C+Mercado+Financeiro;Product+Management+%7C+Fintechs;Desenvolvendo+Solu%C3%A7%C3%B5es+Digitais!" alt="Apresentação animada" />
+  <!-- GIF do 007 no topo -->
+  <img src="https://media1.tenor.com/m/V8-w0D_DtbAAAAAd/james-bond-007.gif" alt="007 James Bond" width="600" style="border-radius: 10px;" />
 </div>
 
 <br>
 
+# 👋 Olá! Eu sou Matheus Matos
+
 <div align="center">
-  <!-- Você pode substituir o link abaixo por um banner personalizado no estilo do seu amigo, mas com tema de mercado/gráficos -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=150&section=header&text=Transformando%20Negócios%20em%20Código&fontSize=30&fontAlignY=30&desc=Finanças%20%7C%20Tecnologia%20%7C%20Inovação&descAlignY=50&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Analista+de+Neg%C3%B3cios+%7C+Investimentos+%26+Dados;Transforma%C3%A7%C3%A3o+Digital+%7C+Gest%C3%A3o+de+Carteira;Desenvolvendo+Solu%C3%A7%C3%B5es+para+Fintechs!" alt="Apresentação animada" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=120&section=header&text=Transformando%20Negócios%20e%20Dados%20em%20Resultados&fontSize=24&fontAlignY=35&desc=Finanças%20%7C%20Tecnologia%20%7C%20Transformação%20Digital&descAlignY=60&descAlign=50" />
 </div>
 
 ## 📊 FICHA TÉCNICA DO PROFISSIONAL
 
 | Atributo | Descrição |
 | :--- | :--- |
-| **🏷️ Classe** | Bacharel em Administração & Desenvolvedor em Formação |
-| **🗺️ Missão Atual** | Unir conhecimentos de negócios, finanças e tecnologia para criar soluções em Fintechs. |
-| **🎯 Especialidades** | Relacionamento com clientes, visão comercial, Product Management e mercado financeiro. |
-| **💡 Interesses** | Investimentos, educação financeira, programação e gestão de produtos digitais. |
+| **🏷️ Classe** | Analista de Negócios & Desenvolvedor em Formação (ADS) |
+| **🗺️ Missão Atual** | Unir visão de negócios, análise de dados e tecnologia para impulsionar a transformação digital no mercado financeiro. |
+| **🎯 Especialidades** | Fluência bancária, gestão consultiva de carteira (Alta Renda), análise de dados e estratégia comercial. |
+| **📜 Guildas (Exp)** | Itaú Unibanco (Agente de Relacionamento) & Bradesco (Dados/Varejo) |
 
 ---
 
 ## 🛠️ SKILLS E FERRAMENTAS
 
+**Negócios & Mercado Financeiro**
+- 🏦 Fluência Bancária (Produtos/Crédito)  ██████████ 99%
+- 📈 Investimentos & Gestão de Carteira    █████████░ 90%
+- 📊 Análise de Dados (Dashboards/Excel)   ████████░░ 80%
+
 **Tecnologia & Desenvolvimento**
-- 🌐 HTML5       ████████░░ 80%
-- 🎨 CSS3        ███████░░░ 70%
-- 🟨 JavaScript  █████░░░░░ 50%
-- 🐙 GitHub      ██████░░░░ 60%
-
-**Negócios & Gestão (Soft/Hard Skills)**
-- 💼 Gestão de Negócios   ██████████ 100%
-- 📈 Mercado Financeiro   █████████░ 90%
-- 🚀 Product Management   ██████░░░░ 60%
+- 💻 Lógica de Programação (ADS)          ███████░░░ 70%
+- 🌐 HTML5 & CSS3                         ███████░░░ 70%
+- 🟨 JavaScript                           █████░░░░░ 50%
+- 🐙 GitHub & Versionamento               ██████░░░░ 60%
 
 ---
 
-## 📜 MISSÕES (Projetos e Objetivos)
+## 🏆 CONQUISTAS DESBLOQUEADAS (Certificações & Marcos)
 
-| Status | Missão |
-| :---: | :--- |
-| ⏳ | Desenvolver primeiros projetos digitais e construir portfólio técnico. |
-| ⏳ | Aprimorar conhecimentos em tecnologia front-end (JS). |
-| 🎯 | Criar soluções de software focadas no mercado financeiro/investimentos. |
-| 🚀 | Transição e integração de carreira para Gestão/Desenvolvimento de Produtos (Fintechs). |
-
----
-
-## 🏆 CONQUISTAS DESBLOQUEADAS
-
-- ✅ Bacharelado em Administração concluído.
-- ✅ Experiência consolidada no setor comercial e mercado financeiro.
-- ✅ Início da jornada no desenvolvimento de software.
-- 🔒 Lançamento do primeiro projeto pessoal em programação (Em breve).
-
----
-
-## 📈 STATUS DO DESENVOLVEDOR
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusewert&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
-
----
-
-## 📫 CONEXÕES
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/em/matheusewert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL" />
-</div>
-
+- 🏅 **Certificações Anbima:** CEA (Especialista em Investimentos) e CPA-20.
+- 🎓 **Formação Base:** Bacharelado em Administração conclu
