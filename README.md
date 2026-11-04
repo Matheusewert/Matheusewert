@@ -60,8 +60,12 @@ Tenho interesse em tecnologia, inovação, programação e desenvolvimento de so
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&theme=tokyonight&hide_border=true" />
+<h2 align="center">📊 Meu GitHub</h2>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusewert&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
+
+![Visitas](https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
 </div>
+
+
