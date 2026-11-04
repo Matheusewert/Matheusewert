@@ -44,4 +44,44 @@
 ## 🏆 CONQUISTAS DESBLOQUEADAS (Certificações & Marcos)
 
 - 🏅 **Certificações Anbima:** CEA (Especialista em Investimentos) e CPA-20.
-- 🎓 **Formação Base:** Bacharelado em Administração conclu
+- 🎓 **Formação Base:** Bacharelado em Administração concluído.
+- 🚀 **Upgrade em Andamento:** Cursando Análise e Desenvolvimento de Sistemas (Unicid).
+- 📈 **High Score:** Histórico consistente de superação de metas no Itaú (115% a 120%).
+
+---
+
+## 📜 MISSÕES ATUAIS
+
+| Status | Missão |
+| :---: | :--- |
+| 🔄 | Aprofundar conhecimentos em programação estruturada e desenvolvimento front/back-end. |
+| 🎯 | Criar projetos unindo análise de dados e desenvolvimento para o setor financeiro. |
+| 🚀 | Expandir atuação na intersecção entre Negócios, Dados e Tecnologia. |
+
+---
+
+## 📈 STATUS DO DESENVOLVEDOR
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusewert&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</div>
+
+---
+
+## 📫 ONDE ME ENCONTRAR (Multiplayer Co-op)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheusewert/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:matheus.ewert@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de Visitas" />
+</div>
