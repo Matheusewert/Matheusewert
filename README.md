@@ -1,4 +1,8 @@
-# 👋 Olá! Eu sou Matheus Ewert
+# 👋 Olá! Eu sou Matheus Ewert <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Mercado+Financeiro+%7C+Tecnologia;Aprendendo+e+construindo+projetos!" />
+
+</div>
 
 <div align="center">
 
