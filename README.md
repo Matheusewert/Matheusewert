@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- GIF do 007 no topo -->
-  <img src="https://media1.tenor.com/m/V8-w0D_DtbAAAAAd/james-bond-007.gif" alt="007 James Bond" width="600" style="border-radius: 10px;" />
+  <!-- GIF do Jogo GoldenEye 007 (Retro N64) no topo -->
+  <img src="https://media1.tenor.com/m/8C9nQO2Z1s4AAAAd/goldeneye-007.gif" alt="GoldenEye 007 N64 Game" width="500" style="border-radius: 10px;" />
 </div>
 
 <br>
