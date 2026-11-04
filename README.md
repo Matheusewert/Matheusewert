@@ -56,8 +56,6 @@ Tenho interesse em tecnologia, inovação, programação e desenvolvimento de so
 
 </div>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
 
 <h2 align="center">📊 Meu GitHub</h2>
 
