@@ -1,9 +1,7 @@
 <div align="center">
-  <!-- GIF do Jogo GoldenEye 007 (Retro N64) no topo -->
-  <img src="https://media1.tenor.com/m/8C9nQO2Z1s4AAAAd/goldeneye-007.gif" alt="GoldenEye 007 N64 Game" width="500" style="border-radius: 10px;" />
+  <!-- GIF Animado de Jogo Retrô (Link testado e funcional para GitHub) -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ6eWV3a2F6ZTRzcHR6YXF4eDN2N3QxbnpqMnkxbXF5czYzeXFxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTGwuEFRq6cOQ/giphy.gif" alt="Retro Game" width="500" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
-
-<br>
 
 # 👋 Olá! Eu sou Matheus Matos
 
