@@ -1,14 +1,16 @@
-# 👋 Olá! Eu sou Matheus Ewert <div align="center">
+# 👋 Olá! Eu sou Matheus Ewert
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Mercado+Financeiro+%7C+Tecnologia;Aprendendo+e+construindo+projetos!" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Mercado+Financeiro+%7C+Tecnologia;Produtos+Digitais+%7C+Fintechs;Aprendendo+e+construindo+solucoes!" alt="Apresentação animada" />
 
 </div>
 
 <div align="center">
 
-### 💼 Mercado Financeiro | Administração | Tecnologia
+### 💼 Administração | Mercado Financeiro | Tecnologia
 
-🚀 Bem-vindo ao meu GitHub!
+Buscando conectar negócios, tecnologia e inovação para desenvolver soluções digitais.
 
 </div>
 
@@ -16,17 +18,17 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em Administração e atuo no mercado financeiro, com experiência comercial, visão de negócios e relacionamento com clientes.
+Sou bacharel em Administração e atuo no mercado financeiro. Tenho experiência comercial, visão de negócios e relacionamento com clientes.
 
-Tenho interesse em tecnologia, inovação, programação e desenvolvimento de soluções digitais.
+Atualmente, estou ampliando meus conhecimentos em tecnologia, desenvolvimento de produtos digitais e programação, com foco em soluções para o setor financeiro.
 
-- 💼 Profissional do mercado financeiro
+- 💼 Experiência no mercado financeiro
 - 🎓 Bacharel em Administração
 - 📊 Interesse em investimentos e educação financeira
-- 💻 Explorando o mundo da programação
-- 🚀 Sempre buscando aprender e evoluir
+- 🚀 Interesse em Product Management e Fintechs
+- 💻 Aprendendo programação e desenvolvimento de soluções digitais
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
@@ -37,27 +39,30 @@ Tenho interesse em tecnologia, inovação, programação e desenvolvimento de so
 
 </div>
 
-## 🎯 Meus objetivos
+## 🎯 Objetivos profissionais
 
-- Desenvolver projetos próprios.
-- Aprender programação.
-- Criar ferramentas financeiras.
-- Unir tecnologia e mercado financeiro.
+- Desenvolver projetos digitais próprios.
+- Aprimorar conhecimentos em tecnologia e programação.
+- Criar soluções voltadas ao mercado financeiro.
+- Aprender sobre gestão e desenvolvimento de produtos digitais.
+- Unir conhecimento de negócios, finanças e tecnologia.
+
+## 🚀 Projetos
+
+Atualmente, estou desenvolvendo projetos para aplicar meus conhecimentos e construir meu portfólio.
+
+Em breve, novos projetos estarão disponíveis por aqui!
 
 ## 📫 Onde me encontrar
 
-- LinkedIn: [Acesse](https://www.linkedin.com/in/em/matheusewert)
+- **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/em/matheusewert)
+- **GitHub:** [Confira meus projetos](https://github.com/Matheusewert)
 
 ---
 
 <div align="center">
 
 **Obrigado pela visita! 🚀**
-
-</div>
-
-
-<div align="center">
 
 ![Visitas](https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
