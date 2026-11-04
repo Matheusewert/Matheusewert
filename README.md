@@ -46,7 +46,7 @@ Tenho interesse em tecnologia, inovação, programação e desenvolvimento de so
 
 ## 📫 Onde me encontrar
 
-- LinkedIn: [link](https://www.linkedin.com/in/em/matheusewert)
+- LinkedIn: [Acesse](https://www.linkedin.com/in/em/matheusewert)
 
 ---
 
