@@ -1,85 +1,129 @@
 <div align="center">
-  <!-- GIF Animado de Jogo Retrô (Link testado e funcional para GitHub) -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ6eWV3a2F6ZTRzcHR6YXF4eDN2N3QxbnpqMnkxbXF5czYzeXFxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTGwuEFRq6cOQ/giphy.gif" alt="Retro Game" width="500" style="border-radius: 10px; margin-bottom: 20px;" />
+
+<img src="./assets/pong.svg" alt="Pong animado: Negócios contra Tecnologia" width="800" />
+
+<br/>
+
+<a href="https://matheusewert.github.io/pong/">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20JOGAR%20DE%20VERDADE-ffd166?style=for-the-badge&labelColor=0d1117" alt="Jogar Pong" />
+</a>
+
 </div>
 
-# 👋 Olá! Eu sou Matheus Matos
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Analista+de+Neg%C3%B3cios+%7C+Investimentos+%26+Dados;Transforma%C3%A7%C3%A3o+Digital+%7C+Gest%C3%A3o+de+Carteira;Desenvolvendo+Solu%C3%A7%C3%B5es+para+Fintechs!" alt="Apresentação animada" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:5eead4&height=140&section=header&text=Matheus%20Matos&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neg%C3%B3cios%20%C2%B7%20Dados%20%C2%B7%20Tecnologia&descSize=18&descAlignY=60" alt="Cabeçalho" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=120&section=header&text=Transformando%20Negócios%20e%20Dados%20em%20Resultados&fontSize=24&fontAlignY=35&desc=Finanças%20%7C%20Tecnologia%20%7C%20Transformação%20Digital&descAlignY=60&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Analista+de+Neg%C3%B3cios+%7C+Investimentos+%26+Dados;Transforma%C3%A7%C3%A3o+Digital+%7C+Gest%C3%A3o+de+Carteira;Desenvolvendo+solu%C3%A7%C3%B5es+para+Fintechs" alt="Apresentação animada" />
 </div>
 
-## 📊 FICHA TÉCNICA DO PROFISSIONAL
+<br/>
 
-| Atributo | Descrição |
+## 👋 Sobre mim
+
+Sou **Analista de Negócios** com experiência em grandes bancos (**Itaú Unibanco** e **Bradesco**) e formação em **Administração**. Hoje estudo **Análise e Desenvolvimento de Sistemas** para construir soluções que unem **mercado financeiro, dados e tecnologia**.
+
+|  |  |
 | :--- | :--- |
-| **🏷️ Classe** | Analista de Negócios & Desenvolvedor em Formação (ADS) |
-| **🗺️ Missão Atual** | Unir visão de negócios, análise de dados e tecnologia para impulsionar a transformação digital no mercado financeiro. |
-| **🎯 Especialidades** | Fluência bancária, gestão consultiva de carteira (Alta Renda), análise de dados e estratégia comercial. |
-| **📜 Guildas (Exp)** | Itaú Unibanco (Agente de Relacionamento) & Bradesco (Dados/Varejo) |
+| 🏷️ **Perfil** | Analista de Negócios e desenvolvedor em formação |
+| 🎯 **Missão** | Impulsionar a transformação digital no mercado financeiro |
+| 💼 **Especialidades** | Fluência bancária, gestão consultiva de carteira (Alta Renda), análise de dados e estratégia comercial |
+| 🏢 **Experiência** | Itaú Unibanco (Agente de Relacionamento) · Bradesco (Dados/Varejo) |
 
 ---
 
-## 🛠️ SKILLS E FERRAMENTAS
+## 🛠️ Skills
 
-**Negócios & Mercado Financeiro**
-- 🏦 Fluência Bancária (Produtos/Crédito)  ██████████ 99%
-- 📈 Investimentos & Gestão de Carteira    █████████░ 90%
-- 📊 Análise de Dados (Dashboards/Excel)   ████████░░ 80%
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tecnologia & Desenvolvimento**
-- 💻 Lógica de Programação (ADS)          ███████░░░ 70%
-- 🌐 HTML5 & CSS3                         ███████░░░ 70%
-- 🟨 JavaScript                           █████░░░░░ 50%
-- 🐙 GitHub & Versionamento               ██████░░░░ 60%
+**💼 Negócios e mercado financeiro**
 
----
+```text
+Fluência bancária      ██████████ 99%
+Investimentos/Carteira █████████░ 90%
+Análise de dados       ████████░░ 80%
+```
 
-## 🏆 CONQUISTAS DESBLOQUEADAS (Certificações & Marcos)
+</td>
+<td width="50%" valign="top">
 
-- 🏅 **Certificações Anbima:** CEA (Especialista em Investimentos) e CPA-20.
-- 🎓 **Formação Base:** Bacharelado em Administração concluído.
-- 🚀 **Upgrade em Andamento:** Cursando Análise e Desenvolvimento de Sistemas (Unicid).
-- 📈 **High Score:** Histórico consistente de superação de metas no Itaú (115% a 120%).
+**💻 Tecnologia e desenvolvimento**
 
----
+```text
+Lógica de programação  ███████░░░ 70%
+HTML5 e CSS3           ███████░░░ 70%
+GitHub e versionamento ██████░░░░ 60%
+JavaScript             █████░░░░░ 50%
+```
 
-## 📜 MISSÕES ATUAIS
-
-| Status | Missão |
-| :---: | :--- |
-| 🔄 | Aprofundar conhecimentos em programação estruturada e desenvolvimento front/back-end. |
-| 🎯 | Criar projetos unindo análise de dados e desenvolvimento para o setor financeiro. |
-| 🚀 | Expandir atuação na intersecção entre Negócios, Dados e Tecnologia. |
-
----
-
-## 📈 STATUS DO DESENVOLVEDOR
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusewert&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </div>
 
 ---
 
-## 📫 ONDE ME ENCONTRAR (Multiplayer Co-op)
+## 🏆 Certificações e formação
+
+- 🏅 **Anbima:** CEA (Especialista em Investimentos) e CPA-20
+- 🎓 **Bacharelado em Administração** (concluído)
+- 🚀 **Análise e Desenvolvimento de Sistemas** na Unicid (em andamento)
+- 📈 **Resultados:** histórico consistente de superação de metas no Itaú, entre **115% e 120%**
+
+---
+
+## 🎯 Foco atual
+
+- [ ] 🔄 Aprofundar programação estruturada e desenvolvimento front-end e back-end
+- [ ] 📊 Criar projetos que unam análise de dados e desenvolvimento para o setor financeiro
+- [ ] 🚀 Atuar na interseção entre negócios, dados e tecnologia
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusewert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheusewert&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="Sequência de contribuições" />
+</div>
+
+---
+
+## 📫 Vamos conversar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusewert/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:matheus.ewert@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitas" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:5eead4&height=100&section=footer" alt="Rodapé" />
 </div>
