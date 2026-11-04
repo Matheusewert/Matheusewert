@@ -82,15 +82,6 @@ JavaScript             █████░░░░░ 50%
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&title_color=00E5FF&icon_color=39FF88&text_color=C9D1D9&bg_color=0A0F1A&border_color=164E63&border_radius=10" width="49%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusewert&layout=compact&title_color=00E5FF&icon_color=39FF88&text_color=C9D1D9&bg_color=0A0F1A&border_color=164E63&border_radius=10" width="49%" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheusewert&background=0A0F1A&ring=00E5FF&fire=39FF88&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=39FF88&sideLabels=C9D1D9&dates=8B949E&stroke=164E63&border=164E63&border_radius=10" width="70%" alt="Sequência de contribuições" />
-</div>
-
 ---
 
 ## 📫 Vamos conversar
