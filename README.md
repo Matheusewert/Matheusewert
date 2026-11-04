@@ -58,7 +58,6 @@ Tenho interesse em tecnologia, inovação, programação e desenvolvimento de so
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<div align="center">
 
 
 ![Visitas](https://komarev.com/ghpvc/?username=Matheusewert&color=blue&style=for-the-badge&label=VISITAS+NO+PERFIL)
