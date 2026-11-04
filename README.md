@@ -2,22 +2,16 @@
 
 <img src="./assets/pong.svg" alt="Pong animado: Negócios contra Tecnologia" width="800" />
 
-<br/>
-
-<a href="https://matheusewert.github.io/pong/">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20JOGAR%20DE%20VERDADE-ffd166?style=for-the-badge&labelColor=0d1117" alt="Jogar Pong" />
-</a>
-
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:5eead4&height=140&section=header&text=Matheus%20Matos&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neg%C3%B3cios%20%C2%B7%20Dados%20%C2%B7%20Tecnologia&descSize=18&descAlignY=60" alt="Cabeçalho" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:0e3a5a,100:0a0f1a&height=140&section=header&text=Matheus%20Matos&fontSize=40&fontColor=00e5ff&fontAlignY=38&desc=Neg%C3%B3cios%20%C2%B7%20Dados%20%C2%B7%20Tecnologia&descSize=18&descAlignY=60" alt="Cabeçalho" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Analista+de+Neg%C3%B3cios+%7C+Investimentos+%26+Dados;Transforma%C3%A7%C3%A3o+Digital+%7C+Gest%C3%A3o+de+Carteira;Desenvolvendo+solu%C3%A7%C3%B5es+para+Fintechs" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Analista+de+Neg%C3%B3cios+%7C+Investimentos+%26+Dados;Transforma%C3%A7%C3%A3o+Digital+%7C+Gest%C3%A3o+de+Carteira;Desenvolvendo+solu%C3%A7%C3%B5es+para+Fintechs" alt="Apresentação animada" />
 </div>
 
 <br/>
@@ -97,12 +91,12 @@ JavaScript             █████░░░░░ 50%
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusewert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusewert&show_icons=true&title_color=00E5FF&icon_color=39FF88&text_color=C9D1D9&bg_color=0A0F1A&border_color=164E63&border_radius=10" width="49%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusewert&layout=compact&title_color=00E5FF&icon_color=39FF88&text_color=C9D1D9&bg_color=0A0F1A&border_color=164E63&border_radius=10" width="49%" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheusewert&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=Matheusewert&background=0A0F1A&ring=00E5FF&fire=39FF88&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=39FF88&sideLabels=C9D1D9&dates=8B949E&stroke=164E63&border=164E63&border_radius=10" width="70%" alt="Sequência de contribuições" />
 </div>
 
 ---
@@ -125,5 +119,5 @@ JavaScript             █████░░░░░ 50%
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:5eead4&height=100&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:0e3a5a,100:0a0f1a&height=100&section=footer" alt="Rodapé" />
 </div>
