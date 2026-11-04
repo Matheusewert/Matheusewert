@@ -80,10 +80,6 @@ JavaScript             █████░░░░░ 50%
 
 ---
 
-## 📈 Estatísticas do GitHub
-
----
-
 ## 📫 Vamos conversar
 
 <div align="center">
