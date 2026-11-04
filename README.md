@@ -1,12 +1,4 @@
 <div align="center">
-
-<img src="./assets/pong.svg" alt="Pong animado: Negócios contra Tecnologia" width="800" />
-
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:0e3a5a,100:0a0f1a&height=140&section=header&text=Matheus%20Matos&fontSize=40&fontColor=00e5ff&fontAlignY=38&desc=Neg%C3%B3cios%20%C2%B7%20Dados%20%C2%B7%20Tecnologia&descSize=18&descAlignY=60" alt="Cabeçalho" />
 </div>
 
